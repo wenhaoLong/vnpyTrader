@@ -1,0 +1,77 @@
+����                               ���������ͻ��ĵ�˳��        ����
+wangyongchang            1.high()               		finished
+wangyongchang            1.low()                		finished
+wangyongchang            1.open()              		finished
+wangyongchang            1.close()              		finished
+
+LeoLiu            2.ASK1()     finish
+LeoLiu            3.ASK1VOL()  finish
+LeoLiu            4.BID1()  finish
+LeoLiu            5.BID1VOL()  finish
+liuzhu            6.BK          finish(not test)
+liuzhu            7.SK          finish
+liuzhu            8.BP          finish
+liuzhu            9.SP          finish
+liuzhu            44.HV         finish
+liuzhu            22.BKVOL1     finish
+liuzhu            23.SKVOL1     finish
+
+
+
+longwenhao	       10.ABS()         	finish
+longwenhao	       19.BETWEEN()         	finish
+longwenhao	       20.BKHIGH()         	finish
+longwenhao	       21.BKLOW()         	finish
+longwenhao	       24.BKVOL()         	finish
+longwenhao	       25.SKVOL()         	finish
+longwenhao	       30.CROSS()		finish
+longwenhao	       33.ENTRYSIG_PLACE()		finish
+longwenhao	       34.ENTRYSIG_PRICE()		finish
+longwenhao	       35.ENTRYSIG_VOL()		finish
+longwenhao	       39.EXITSIG_PLACE()		finish
+longwenhao	       40.EXITSIG_PRICE()		finish
+longwenhao	       35.EXITSIG_VOL()		finish
+longwenhao	       43.HHV()		finish
+longwenhao	       45.HHVBARS()		finish
+longwenhao	       47.INITMONEY()		finish
+longwenhao	       48.INTPART()		finish
+longwenhao	       57.LLV()		finish
+longwenhao	       58.LV()		finish
+longwenhao	       59.LLVBARS()		finish
+longwenhao	       61.MAX() 		finish
+longwenhao	       62.MA() 		finish
+longwenhao	       63.MIN() 		finish
+longwenhao	       77.REF()         	finish
+longwenhao	       81.REFX()         	finish
+longwenhao	       82.ROUND()         	finish
+longwenhao	       87.SIGNUM()         	finish
+longwenhao	       89.SUM()         	finish
+longwenhao	       90.SUMBARS           	finish
+longwenhao	       88.SIGVOL           	finish
+longwenhao         92.tmaxwin           finish
+longwenhao         93.tmaxloss          finish
+longwenhao	       94.TMAXSEQLOSS()  	finish
+longwenhao	       95.TMAXSEQWIN()   	finish
+longwenhao	       96.TNUMSEQLOSS()  	finish
+longwenhao	       97.TNUMSEQWIN()   	finish
+longwenhao	       101.TSEQLOSS()        	finish
+longwenhao	       102.TSEQWIN()         	finish
+
+
+
+Yangjintao          11	autofilter                 finish
+Yangjintao          12	available_opi              finish
+Yangjintao          13	barpos                     finish
+Yangjintao          14. barscount                  finish
+Yangjintao          15. barslast                   finish
+Yangjintao          17. barssince                  finish
+Yangjintao          31.DAYBARPOS                   finish
+Yangjintao          36. every                      finish
+Yangjintao          54.LAST                        finish
+Yangjintao          56.	lastsig                    finish
+Yangjintao          103.UNIT                       finish
+Yangjintao          104.valuewhen                  finish
+
+
+
+

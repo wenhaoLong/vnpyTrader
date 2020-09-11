@@ -1,0 +1,24 @@
+talib
+wmi
+rsa
+pyqt5==5.12.2
+pyqtgraph
+dataclasses; python_version<="3.6"
+qdarkstyle
+requests
+websocket-client
+peewee
+pymysql
+psycopg2
+mongoengine
+numpy
+pandas==0.24
+matplotlib
+seaborn
+futu-api
+tigeropen
+rqdatac
+ta-lib
+ibapi
+deap
+pyzmq
